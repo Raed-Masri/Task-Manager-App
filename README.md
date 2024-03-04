@@ -1,46 +1,10 @@
-# Getting Started with Create React App
+This React Tasks Manager application is a simple yet powerful tool to manage your daily tasks efficiently. It allows you to create, mark as completed, and delete tasks seamlessly. The interface is user-friendly, providing an intuitive way to manage both active and completed tasks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Features
+Task Creation: Easily add new tasks. Task Completion: Mark tasks as completed by ticking the checkbox next to each task. Task Deletion: Remove unwanted tasks from the list with a simple click of a button. Filtering: Toggle between viewing active and completed tasks for better organization.
 
-## Available Scripts
+## Technologies Used
+React: This application is built using React, a popular JavaScript library for building user interfaces. TypeScript: The core functionality of the application is implemented using TypeScript features. CSS & Material UI library: The styling of the application is done using Cascading Style Sheets for a visually appealing user interface.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Usage
+To add a new task, type the task description in the input field and press Enter or click the "Create" button. To mark a task as completed, click the checkbox next to the task. To delete a task, click the trash can icon next to the task. Use the filtering options to switch between viewing active and completed tasks.
